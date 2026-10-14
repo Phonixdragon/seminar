@@ -1,0 +1,133 @@
+{
+  "title": "Plastids — Seminar Questions and Answers",
+  "chapter": "Cell: The Unit of Life",
+  "section": "8.5.5 Plastids",
+  "description": "Simple, interactive questions on Plastids designed for seminar Q&A and audience participation.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "In which organisms are plastids found?",
+      "answer": "Plastids are found in all plant cells and in euglenoids."
+    },
+    {
+      "id": 2,
+      "question": "Why are plastids easily visible under a light microscope?",
+      "answer": "Because they are relatively large in size."
+    },
+    {
+      "id": 3,
+      "question": "Based on the types of pigments they contain, into which three categories are plastids classified?",
+      "answer": "Chloroplasts, chromoplasts, and leucoplasts."
+    },
+    {
+      "id": 4,
+      "question": "Which green pigment found in chloroplasts is responsible for trapping light energy for photosynthesis?",
+      "answer": "Chlorophyll."
+    },
+    {
+      "id": 5,
+      "question": "Which type of plastids impart yellow, orange, or red color to flowers and fruits?",
+      "answer": "Chromoplasts."
+    },
+    {
+      "id": 6,
+      "question": "Which group of fat-soluble pigments gives chromoplasts their yellow, orange, or red color?",
+      "answer": "Carotenoid pigments (such as carotene and xanthophylls)."
+    },
+    {
+      "id": 7,
+      "question": "What are leucoplasts?",
+      "answer": "They are colourless plastids that store nutrients."
+    },
+    {
+      "id": 8,
+      "question": "Which type of leucoplast stores carbohydrates (starch), such as in potatoes?",
+      "answer": "Amyloplasts."
+    },
+    {
+      "id": 9,
+      "question": "What do elaioplasts store in plant cells?",
+      "answer": "Oils and fats."
+    },
+    {
+      "id": 10,
+      "question": "What type of nutrient is stored by aleuroplasts?",
+      "answer": "Proteins."
+    },
+    {
+      "id": 11,
+      "question": "In which leaf tissue are the majority of chloroplasts located?",
+      "answer": "Mesophyll cells."
+    },
+    {
+      "id": 12,
+      "question": "How many chloroplasts are typically found in a single mesophyll cell?",
+      "answer": "20 to 40 chloroplasts per cell."
+    },
+    {
+      "id": 13,
+      "question": "How many chloroplasts are present per cell in the green alga Chlamydomonas?",
+      "answer": "1 chloroplast per cell."
+    },
+    {
+      "id": 14,
+      "question": "How many membranes enclose a chloroplast?",
+      "answer": "Two (chloroplast is a double-membrane-bound organelle)."
+    },
+    {
+      "id": 15,
+      "question": "Between the outer and inner membranes of a chloroplast, which one is relatively less permeable?",
+      "answer": "The inner membrane."
+    },
+    {
+      "id": 16,
+      "question": "What is the semi-fluid space enclosed by the inner membrane of a chloroplast called?",
+      "answer": "Stroma."
+    },
+    {
+      "id": 17,
+      "question": "What are the organized, flattened membranous sacs present within the stroma called?",
+      "answer": "Thylakoids."
+    },
+    {
+      "id": 18,
+      "question": "What is a stack of thylakoids arranged like a pile of coins called?",
+      "answer": "A granum (plural: grana)."
+    },
+    {
+      "id": 19,
+      "question": "What structures connect the thylakoids of different grana together?",
+      "answer": "Stroma lamellae (or fret membranes)."
+    },
+    {
+      "id": 20,
+      "question": "What is the inner space enclosed by the membrane of a thylakoid called?",
+      "answer": "Lumen."
+    },
+    {
+      "id": 21,
+      "question": "Where are chlorophyll pigments located within the chloroplast?",
+      "answer": "In the thylakoids (thylakoid membrane)."
+    },
+    {
+      "id": 22,
+      "question": "What type of ribosomes are found inside chloroplasts?",
+      "answer": "70S ribosomes (smaller than cytoplasmic 80S ribosomes)."
+    },
+    {
+      "id": 23,
+      "question": "What kind of DNA is found in the stroma of a chloroplast?",
+      "answer": "Small, double-stranded circular DNA."
+    },
+    {
+      "id": 24,
+      "question": "In which part of the chloroplast do the light reactions of photosynthesis take place?",
+      "answer": "Grana (thylakoids)."
+    },
+    {
+      "id": 25,
+      "question": "In which part of the chloroplast do dark reactions (synthesis of carbohydrates and proteins) take place?",
+      "answer": "Stroma."
+    }
+  ]
+}
